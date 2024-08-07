@@ -1,1 +1,1 @@
-"# Inventory-App-Django" 
+Inventory-App-Django is a web application developed with Django for managing inventory. This project is based on a tutorial by Net Ninja (https://www.youtube.com/watch?v=3EzKBFc9_MQ&list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw&index=13), which guides the development of a comprehensive inventory management system.
